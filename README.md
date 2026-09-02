@@ -1,1 +1,1 @@
-# Object_orienting_programme_with_C-
+# Object-oreiented-programming-in-c++
